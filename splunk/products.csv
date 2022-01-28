@@ -1,0 +1,17 @@
+productId,product_name,categoryId,price,Code
+DB-SG-G01,Mediocre Kingdoms,STRATEGY,24.99,A
+DC-SG-G02,Dream Crusher,STRATEGY,39.99,B
+FS-SG-G03,Final Sequel,STRATEGY,24.99,C
+WC-SH-G04,World of Cheese,SHOOTER,24.99,D
+WC-SH-T02,World of Cheese Tee,TEE,9.99,E
+PZ-SG-G05,Puppies vs. Zombies,STRATEGY,4.99,F
+CU-PG-G06,Curling 2014,SPORTS,19.99,G
+MB-AG-G07,Manganiello Bros.,ARCADE,39.99,H
+MB-AG-T01,Manganiello Bros. Tee,TEE,9.99,I
+FI-AG-G08,Orvil the Wolverine,ARCADE,39.99,J
+BS-AG-G09,Benign Space Debris,ARCADE,24.99,K
+SC-MG-G10,SIM Cubicle,SIMULATION,19.99,L
+WC-SH-A01,Holy Blade of Gouda,ACCESSORIES,5.99,M
+WC-SH-A02,Fire Resistance Suit of Provolone,ACCESSORIES,3.99,N
+GT-SC-G01,Grand Theft Scooter,SHOOTER,24.99,O
+WSC-MG-G10,SIM Cubicle Tee,TEE,9.99,P
